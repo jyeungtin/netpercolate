@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: netpercolate
+Version: 0.1.1
+Summary: A simple python package for targeted percolation in social networks
+Author: Justin Yeung
+Author-email: jyeungnl@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: pandas==2.2.2
+Requires-Dist: networkx==3.3
+Requires-Dist: numpy==1.22.4
+
+# netpercolate
+Python package for targeted percolation in social networks
