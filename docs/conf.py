@@ -33,6 +33,7 @@ source_suffix = ['.rst','.md']
 html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 html_logo = "logo.png"
+html_copy_source = True
 
 html_context = {
     'display_github': True,
